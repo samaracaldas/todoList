@@ -2,7 +2,7 @@
 
 ![toDoList](https://github.com/samaracaldas/todoList/assets/92318337/cbfa6b37-4569-42b9-8814-bda46b84ce26)
 
-<p id="description">Uma lista de tarefas programada em JS que armazena todos os dados que você inserir!</p>
+<p id="description">Uma lista de tarefas programada em JS para você anotar todos os seus compromissos e tarefas do dia!</p>
 
 <h2>🚀 Demo</h2>
 
