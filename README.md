@@ -21,8 +21,6 @@ Tópicos Abordados:
   
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
